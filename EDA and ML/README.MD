@@ -1,0 +1,3 @@
+**Russian:** В работе спрогнозирована вероятность оттока клиентов из фитнес-центров (на уровне следующего месяца) для каждого клиента,  сформированы типичные портреты клиентов: выделить несколько наиболее ярких групп и охарактеризованы их основные свойства. Данная работа основана на Ml при помощи библиотеки Sklearn.
+
+**English:** The work predicted the probability of a churn of clients from fitness centers (at the next month's level) for each client, formed typical client portraits: highlight several of the most striking groups and characterize their main properties. This work is based on Ml using the Sklearn library.

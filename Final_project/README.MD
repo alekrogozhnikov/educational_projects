@@ -1,4 +1,4 @@
-<center>Monetization</center>
+<p align="center">**Monetization**</p>
 
 **Задача**
 
